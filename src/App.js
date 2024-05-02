@@ -30,7 +30,7 @@ export default function App() {
       <h1>Unit testing - react.js using webpack</h1>
       <label>
         <input
-          id="MCP_(S)_|Switch1|"
+          id="CheckBoxONE"
           type="checkbox"
           checked={isCheckedOne}
           onChange={onChangeOne}
@@ -39,7 +39,7 @@ export default function App() {
       </label>
       <label>
         <input
-          id="MCP_(S) | Switch2|"
+          id="CheckBoxTWO"
           type="checkbox"
           checked={isCheckedTwo}
           onChange={onChangeTwo}
